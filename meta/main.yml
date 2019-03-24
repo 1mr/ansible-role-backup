@@ -1,0 +1,14 @@
+---
+galaxy_info:
+  role_name: backup
+  description: backup scripts
+  license: BSD
+  min_ansible_version: 1.4
+  platforms:
+  - name: Debian
+    versions:
+    - jessie
+    - squeeze
+    - wheezy
+galaxy_tags:
+  - system
